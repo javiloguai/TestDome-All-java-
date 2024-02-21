@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="googlecode.jpattern.core" type="repository">
+    <properties maven-id="com.googlecode.jpattern:jpattern-core:2.9.0" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jpattern-core-2.9.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpattern-shared-1.3.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jpattern-logger-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mail-1.4.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/activation-1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
